@@ -12,14 +12,19 @@ matplotlib, seaborn, shap
 joblib, pyarrow
 
 ⚙️ Estrutura
+
 fraud-detector/
+
 ├─ data/ # dados (não versionar)
 
 ├─ models/             # modelo treinado (.pkl)
 
 ├─ notebooks/
+
 │   └─ analise_modelagem_fraude.ipynb
+
 ├─ requirements.txt
+
 └─ README.md
 
 🚀 Como usar
