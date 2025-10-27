@@ -9,11 +9,7 @@ Notebook único contendo análise exploratória, feature engineering, modelagem 
 
 Python 3.10+
 
-pandas, numpy, scikit-learn
-
-matplotlib, seaborn, shap
-
-joblib, pyarrow
+pandas, numpy, scikit-learn, matplotlib, seaborn, scipy
 
 ⚙️ Estrutura
 
