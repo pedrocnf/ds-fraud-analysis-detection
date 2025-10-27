@@ -1,6 +1,8 @@
 # ds-fraud-analysis-detection
 Notebook único contendo análise exploratória, feature engineering, modelagem e explicabilidade de um classificador binário para detecção de fraudes em transações de cartão de crédito.
 
+Veja artigo completo em: https://medium.com/@pedrocnf/detec%C3%A7%C3%A3o-de-fraudes-em-transa%C3%A7%C3%B5es-financeiras-com-cart%C3%A3o-de-cr%C3%A9dito-da169b9303bf
+
 🧠 Tecnologias
 
 Python 3.10+
